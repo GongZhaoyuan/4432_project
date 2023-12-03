@@ -1,0 +1,20 @@
+[
+  {
+    "username": "21096764d",
+    "password": "21096764d",
+    "role": "user",
+    "enabled": true
+  },
+  {
+    "username": "admin",
+    "password": "adminpass",
+    "role": "admin",
+    "enabled": true
+  },
+  {
+    "username": "21105665d",
+    "password": "21105665d",
+    "role": "user",
+    "enabled": true
+  }
+]
